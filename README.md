@@ -13,4 +13,4 @@
 
 ## 下载
 
-![download](https://github.com/Leeeeeeeeeeeee/FlappyBird/raw/main/app/release/app-release.apk)
+[点击此处下载](https://github.com/Leeeeeeeeeeeee/FlappyBird/raw/main/app/release/app-release.apk)
