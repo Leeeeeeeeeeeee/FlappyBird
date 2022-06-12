@@ -9,6 +9,8 @@
 
 ## 演示
 
-[!display](https://github.com/Leeeeeeeeeeeee/FlappyBird/blob/main/display.gif)
+![display](https://github.com/Leeeeeeeeeeeee/FlappyBird/blob/main/display.gif)
 
 ## 下载
+
+![download](https://github.com/Leeeeeeeeeeeee/FlappyBird/raw/main/app/release/app-release.apk)
